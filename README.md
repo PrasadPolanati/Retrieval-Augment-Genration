@@ -2,9 +2,6 @@
 
 This repository implements a **Retrieval-Augmented Generation (RAG)** framework designed to enhance Large Language Model (LLM) performance in answering customer queries related to credit card policies. The solution retrieves relevant documents from a vector database using embeddings and generates a context-aware response via **ChatGPT Turbo 3.5**. This case study particularly focuses on the credit card policy for Chase Sapphire.
 
-## Reference
-This project was completed as a hands-on implementation of concepts learnt in **Udemy course**: [Master RAG: Retrieval-Augmented Generation Systems](https://www.udemy.com/course/retrieval-augmented-gen/), which covers the principles and applications of RAG frameworks. Certification from the course is included in this repository.
-
 ---
 
 ## Problem Statement
